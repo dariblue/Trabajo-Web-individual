@@ -31,39 +31,54 @@
 
     <main>
 
-
         <div class="px-4 py-5 my-5 text-center">
             <h1 class="display-5 fw-bold text-body-emphasis">FUNDAMENTOS DE INGENIERIA INFORMATICA</h1>
             <div class="col-lg-6 mx-auto">
-              <p class="lead mb-4">Aqui encontratemos los temas que se tratan en la asignatura FII</p>
-              <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-                <button type="button" class="btn btn-primary btn-lg px-4 gap-3">Parte 1</button>
-                <button type="button" class="btn btn-outline-secondary btn-lg px-4">Parte 2</button>
-              </div>
+                <p class="lead mb-4">Aqui encontratemos los temas que se tratan en la asignatura FII</p>
+                <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+                    <button type="button" onclick="location.href='#P1'"
+                        class="btn btn-outline-secondary btn-lg px-4">Parte 1</button>
+                    <button type="button" onclick="location.href='#P2'"
+                        class="btn btn-outline-secondary btn-lg px-4">Parte 2</button>
+                </div>
+                <p class="mt-4">Desde estos botones podras navegar por los bloques del temario</p>
+                <div class="btn-group" role="group" aria-label="Bloques de la primera parte">
+                    <button type="button" onclick="location.href='#B1'" class="btn btn-outline-secondary">Bloque
+                        I</button>
+                    <button type="button" onclick="location.href='#B2'" class="btn btn-outline-secondary">Bloque
+                        II</button>
+                    <button type="button" onclick="location.href='#B3'" class="btn btn-outline-secondary">Bloque
+                        III</button>
+                    <button type="button" onclick="location.href='#B4'" class="btn btn-outline-secondary">Bloque
+                        IV</button>
+                    <button type="button" onclick="location.href='#B5'" class="btn btn-outline-secondary">Bloque
+                        V</button>
+                    <button type="button" onclick="location.href='#B6'" class="btn btn-outline-secondary">Bloque
+                        VI</button>
+                </div>
             </div>
-          </div>
+        </div>
 
-        <div class="px-4 py-5 text-center"><!--Separador Parte 1-->
+        <div class="px-4 py-5 text-center" id="P1"><!--Separador Parte 1-->
             <div class="py-5">
                 <h1 class="display-5 fw-bold">PARTE 1</h1>
                 <div class="col-lg-6 mx-auto">
                     <p class="fs-5 mb-4">Apartir de aqui podremos ver los temas de la primera parte de la asignatura
                         Fundamentos de la ingenieria informatica</p>
-                    <p class="lead">
-                        <a href="#B1" class="btn btn-lg btn-light fw-bold border-white bg-secondary">Bloque I</a>
-                        <a href="#B2" class="btn btn-lg btn-light fw-bold border-white bg-secondary">Bloque II</a>
-                        <a href="#B3" class="btn btn-lg btn-light fw-bold border-white bg-secondary">Bloque III</a>
-                        <a href="#B4" class="btn btn-lg btn-light fw-bold border-white bg-secondary">Bloque IV</a>
-                        <a href="#B5" class="btn btn-lg btn-light fw-bold border-white bg-secondary">Bloque V</a>
-                        <a href="#B6" class="btn btn-lg btn-light fw-bold border-white bg-secondary">Bloque VI</a>
-
-                    </p>
+                    <div class="btn-group" role="group" aria-label="Bloques de la primera parte">
+                        <button type="button" onclick="location.href='#B1'" class="btn btn-outline-secondary">Bloque
+                            I</button>
+                        <button type="button" onclick="location.href='#B2'" class="btn btn-outline-secondary">Bloque
+                            II</button>
+                        <button type="button" onclick="location.href='#B3'" class="btn btn-outline-secondary">Bloque
+                            III</button>
+                    </div>
                 </div>
 
             </div>
         </div>
 
-        <div class="container px-4"> <!--Contenedor del Primer bloque-->
+        <div class="container px-4" id="B1"> <!--Contenedor del Primer bloque-->
             <h2 class="pb-2 border-bottom">Bloque I</h2>
             <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
                 <div class="feature col">
@@ -98,7 +113,7 @@
 
         <div class="b-example-divider"></div> <!--Separador entre bloques-->
 
-        <div class="container px-4 py-5"> <!--Contenedor del Segundo bloque-->
+        <div class="container px-4 py-5" id="B2"> <!--Contenedor del Segundo bloque-->
             <h2 class="pb-2 border-bottom">Bloque II</h2>
             <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
                 <div class="feature col">
@@ -147,7 +162,7 @@
 
         <div class="b-example-divider"></div> <!--Separador entre bloques-->
 
-        <div class="container px-4 py-5"> <!--Contenedor del Tercer bloque-->
+        <div class="container px-4 py-5" id="B3"> <!--Contenedor del Tercer bloque-->
             <h2 class="pb-2 border-bottom">Bloque III</h2>
             <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
                 <div class="feature col">
@@ -167,17 +182,26 @@
             </div>
         </div>
 
-        <div class="px-4 py-5 text-center"><!--Separador Parte 2-->
+        <div class="px-4 py-5 text-center" id="P2"><!--Separador Parte 2-->
             <div class="py-5">
                 <h1 class="display-5 fw-bold">PARTE 2</h1>
                 <div class="col-lg-6 mx-auto">
                     <p class="fs-5 mb-4">Apartir de aqui podremos ver los temas de la segunda parte de la asignatura
                         Fundamentos de la ingenieria informatica</p>
+                    <div class="btn-group" role="group" aria-label="Bloques de la primera parte">
+                        <button type="button" onclick="location.href='#B4'" class="btn btn-outline-secondary">Bloque
+                            IV</button>
+                        <button type="button" onclick="location.href='#B5'" class="btn btn-outline-secondary">Bloque
+                            V</button>
+                        <button type="button" onclick="location.href='#B6'" class="btn btn-outline-secondary">Bloque
+                            VI</button>
+                    </div>
+
                 </div>
             </div>
         </div>
 
-        <div class="container px-4"> <!--Contenedor del cuarto bloque-->
+        <div class="container px-4" id="B4"> <!--Contenedor del cuarto bloque-->
             <h2 class="pb-2 border-bottom">Bloque IV</h2>
             <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
                 <div class="feature col">
@@ -199,7 +223,7 @@
 
         <div class="b-example-divider"></div> <!--Separador entre bloques-->
 
-        <div class="container px-4 py-5"> <!--Contenedor del quinto bloque-->
+        <div class="container px-4 py-5" id="B5"> <!--Contenedor del quinto bloque-->
             <h2 class="pb-2 border-bottom">Bloque V</h2>
             <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
                 <div class="feature col">
@@ -221,7 +245,7 @@
 
         <div class="b-example-divider"></div> <!--Separador entre bloques-->
 
-        <div class="container px-4 py-5"> <!--Contenedor del sexto bloque-->
+        <div class="container px-4 py-5" id="B6"> <!--Contenedor del sexto bloque-->
             <h2 class="pb-2 border-bottom">Bloque VI</h2>
             <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
                 <div class="feature col">
