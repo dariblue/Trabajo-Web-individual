@@ -11,18 +11,19 @@ Esta pagina consta de una pantalla de inicio en la cual da una introduccion del 
 
   En el menu de arriba podemos navegar por las diferentes paginas de la web 
 
-  Contacto
+  * Contacto
     En esta pagina tenemos un formulario el cual al rellenar y darle a enviar te pide que realices un captcha y manda los datos introducidos en el formulario al correo electronico 
 
-  Redes
+  * Redes
     En la pagina de redes podemos ver el acceso a las paginas de algunos compañeros
 
-  Temas
+  * Temas
     En la pagina de temas encontraremos algo de informacion sobre la Steam Deck aparte de un enlaze a la pagina de Steam con mas informacion 
 
-Acceso a la pagina web: https://dariblue.github.io/Trabajo-Web-individual/
+@ Acceso a la pagina web: https://dariblue.github.io/Trabajo-Web-individual/
 
 + Problemas en el desarrollo 
+  a la hora de importar la hoja de estilos de bootstrap y los iconos si ponia la de iconos debajo de la general de bootstrap los iconos no funcionaban, no entiendo por que no funciona en el otro orden pero lo solucione importando primero los iconos, luego mi css y despues bootstrap
 
 + Conclusiones
 
