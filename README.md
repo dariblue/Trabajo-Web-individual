@@ -1,3 +1,4 @@
+### Acceso a la pagina web: https://dariblue.github.io/Trabajo-Web-individual/
 # Trabajo-Web-individual
 Esta es la pagina web del trabajo individual de Fundamentos de la Ingenieria Informatica
 Esta pagina esta hecha por Dario Rodriguez Pajares
@@ -20,7 +21,7 @@ Esta pagina consta de una pantalla de inicio en la cual da una introduccion del 
    **Temas:**
     En la pagina de temas encontraremos algo de informacion sobre la Steam Deck aparte de un enlaze a la pagina de Steam con mas informacion 
 
-### Acceso a la pagina web: https://dariblue.github.io/Trabajo-Web-individual/
+
 
 + Problemas en el desarrollo 
   a la hora de importar la hoja de estilos de bootstrap y los iconos si ponia la de iconos debajo de la general de bootstrap los iconos no funcionaban, no entiendo por que no funciona en el otro orden pero lo solucione importando primero los iconos, luego mi css y despues bootstrap
