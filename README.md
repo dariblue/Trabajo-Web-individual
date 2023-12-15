@@ -13,13 +13,13 @@ Esta pagina consta de una pantalla de inicio en la cual da una introduccion del 
   En el menu de arriba podemos navegar por las diferentes paginas de la web 
 
   ### Contacto:
-    En esta pagina tenemos un formulario el cual al rellenar y darle a enviar te pide que realices un captcha y manda los datos introducidos en el formulario al correo electronico 
+  En esta pagina tenemos un formulario el cual al rellenar y darle a enviar te pide que realices un captcha y manda los datos introducidos en el formulario al correo electronico 
 
   ### **Redes:**
-    En la pagina de redes podemos ver el acceso a las paginas de algunos compañeros
+  En la pagina de redes podemos ver el acceso a las paginas de algunos compañeros
 
   ###  **Temas:**
-    En la pagina de temas encontraremos algo de informacion sobre la Steam Deck aparte de un enlaze a la pagina de Steam con mas informacion 
+  En la pagina de temas encontraremos algo de informacion sobre la Steam Deck aparte de un enlaze a la pagina de Steam con mas informacion 
 
 
 
