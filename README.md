@@ -1,7 +1,7 @@
 ### Acceso a la pagina web: https://dariblue.github.io/Trabajo-Web-individual/
 # Trabajo-Web-individual
 Esta es la pagina web del trabajo individual de Fundamentos de la Ingenieria Informatica
-Esta pagina esta hecha por Dario Rodriguez Pajares
+## Esta pagina esta hecha por Dario Rodriguez Pajares
 Como apoyo para la creacion he utilizado el framework Bootstrap, es una gran opcion para hacer un diseño atractivo en la estapa de desarrollo. Utilizando la version 5.3
   - bootstrap: https://getbootstrap.com/ 
 
