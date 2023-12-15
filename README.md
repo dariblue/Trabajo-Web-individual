@@ -7,3 +7,5 @@ Esta pagina consta de una pantalla de inicio en la cual da una introduccion del 
   - Esta estructura de menu superior lo encontremos en todo el sitio web para mantener un mismo estilo y que la navegacion sea mas sencilla
 
 Acceso a la pagina web: https://dariblue.github.io/Trabajo-Web-individual/
+
+
