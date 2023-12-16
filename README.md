@@ -25,7 +25,8 @@ Aparte de utilizar esta librería he utilizado mi archivo CSS para poder impleme
   Algo más abajo encontraremos 2 botones que nos harán de acceso directo a otras partes de la página web.
 
   ### Contacto:
-  En esta página tenemos un formulario el cual al rellenar y darle a enviar te pide que realices un captcha y manda los datos introducidos en el formulario al correo electrónico. 
+  En esta página tenemos un formulario el cual al rellenar y darle a enviar te pide que realices un captcha y manda los datos introducidos en el formulario al correo electrónico.<br> 
+  Mas abajo Tenemos una foto que muestra como se recibe el coreeo electronico
 
   ### Redes:
   En la página de redes podemos ver el acceso a las páginas de algunos compañeros.
@@ -63,3 +64,9 @@ Finalmente he terminado refrescando la metodología del desarrollo web.
 
 
 ### Acceso a la página web: https://dariblue.github.io/Trabajo-Web-individual/
+
+
+
+
+## Asi se veria el correo electronico del formulario
+![Alt text](PUBLIC/IMG/correo.png)
