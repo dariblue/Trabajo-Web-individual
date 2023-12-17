@@ -55,7 +55,7 @@ Y accesos directos a Instagram, Twitter y TikTok.<br>
 ## Problemas en el desarrollo 
   A la hora de importar la hoja de estilos de bootstrap y los iconos si ponía la de iconos debajo de la general de bootstrap los iconos no funcionaban, no entiendo por qué no funciona en el otro orden, pero lo solucione importando primero los iconos, luego mi CSS y después bootstrap
 
-  Aparte en al hacer las páginas he tenido algún problema con el tamaño de la página, esta se hacia más ancha de lo que debía y aparecía una barra desplazadora que no me gustaba como quedaba asique tuve que volver a hacer parte de la página para que quedase bien ya que no encontraba cual era el fallo
+  Aparte en al hacer las páginas he tenido algún problema con el tamaño de la página, esta se hacia más ancha de lo que debía y aparecía una barra desplazadora que no me gustaba como quedaba asi que tuve que volver a hacer parte de la página para que quedase bien ya que no encontraba cual era el fallo
 
 ## Conclusiones
 En general ha quedado una página web que en mi opinión es muy bonita, minimalista pero útil. <br>
